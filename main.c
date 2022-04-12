@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-printf("Hello world! master branch\n");
-printf("master branch\n");
+printf("Hello world! test2 branch\n");
+printf("test2 branch\n");
 return 0;
 }
